@@ -103,19 +103,6 @@ Required columns in player_data_file:
 
 Note: the configured default spelling is Availbale because current data/code use that exact header.
 
-Optional metadata columns may exist and are ignored if present:
-
-- ID
-- Start time
-- Completion time
-- Email
-- Last modified time
-- Name2
-- Extracted uid
-- Are the Uid's Same
-- Reporting Manager
-- Mobile No
-
 Use PlayerData_Template.xlsx as a starter template.
 
 ## Images
