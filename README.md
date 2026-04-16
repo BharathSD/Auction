@@ -123,7 +123,3 @@ Use PlayerData_Template.xlsx as a starter template.
 - Missing configuration file: ensure AuctionConfig.json exists at project root.
 - Image missing: place image files under images_folder with matching file names.
 
-## Notes
-
-- __pycache__/ and .venv/ are ignored by .gitignore.
-- AuctionedPlayers.xlsx is runtime data; commit only if intentionally versioning state.
