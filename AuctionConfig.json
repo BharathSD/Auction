@@ -1,0 +1,8 @@
+{
+  "player_data_file": "PL_Safety_Box_Cricket_League.xlsx",
+  "auctioned_players_file": "AuctionedPlayers.xlsx",
+  "availability_column": "Availbale",
+  "max_players_per_captain": 8,
+  "initial_budget_per_captain": 150000,
+  "captains" : ["Anoop", "Shashi", "Pradeep", "Senthil", "Vijay", "Raghavendra", "Hariharan", "Shashank"]
+}
